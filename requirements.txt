@@ -2,3 +2,5 @@ pytube
 opencv-python
 openai
 youtube-transcript-api
+openai
+textwrap3
