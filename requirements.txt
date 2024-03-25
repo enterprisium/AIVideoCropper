@@ -1,6 +1,6 @@
 pytube
-opencv-python
-openai
-youtube-transcript-api
 openai
 textwrap3
+opencv-python
+youtube-transcript-api
+google-cloud-speech
