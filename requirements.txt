@@ -2,5 +2,6 @@ pytube
 openai
 textwrap3
 opencv-python
+python ffmpeg
 youtube-transcript-api
 google-cloud-speech
